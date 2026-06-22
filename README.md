@@ -71,6 +71,9 @@ The system successfully monitors environmental conditions and displays:
 * Rainfall Level
 
 The collected data is uploaded to ThingSpeak, where users can monitor environmental changes through real-time graphs and cloud-based dashboards.
+<img width="619" height="404" alt="a691f53e-c2c1-42cd-b4ad-570f75cb5504" src="https://github.com/user-attachments/assets/76dc7952-a7bd-4d23-8211-e3ebe1b3d9c6" />
+<img width="714" height="445" alt="73e21a3e-00a1-423c-8367-ae7ba76f94b6" src="https://github.com/user-attachments/assets/d1d54f9c-e901-4a05-a8e1-9a1df4db5b79" />
+
 
 
 
